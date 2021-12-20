@@ -1,0 +1,13 @@
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\netcoreapp3.1\PirmaPamoka.exe
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\netcoreapp3.1\PirmaPamoka.deps.json
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\netcoreapp3.1\PirmaPamoka.runtimeconfig.json
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\netcoreapp3.1\PirmaPamoka.runtimeconfig.dev.json
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\netcoreapp3.1\PirmaPamoka.dll
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\netcoreapp3.1\PirmaPamoka.pdb
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\netcoreapp3.1\PirmaPamoka.csprojAssemblyReference.cache
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\netcoreapp3.1\PirmaPamoka.AssemblyInfoInputs.cache
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\netcoreapp3.1\PirmaPamoka.AssemblyInfo.cs
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\netcoreapp3.1\PirmaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\netcoreapp3.1\PirmaPamoka.dll
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\netcoreapp3.1\PirmaPamoka.pdb
+C:\Users\kooky\Documents\DOTNET2\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\netcoreapp3.1\PirmaPamoka.genruntimeconfig.cache
